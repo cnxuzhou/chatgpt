@@ -57,7 +57,8 @@
 
 站点列表(2112)：
 
-1. [[⭐⭐] https://ai.bo-e.com/  ⭐⭐⭐⭐仅用于开发学习交流。⭐⭐⭐⭐
+1. [[⭐⭐⭐] https://ai.bo-e.com/  ⭐⭐⭐⭐仅用于开发学习交流。⭐⭐⭐⭐
+
 1. [[⭐⭐] https://chat.binjie.site:7777](https://chat.binjie.site:7777) **仅用于开发学习交流。** 基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索
 1. [[⭐⭐] https://chat.lmsys.org](https://chat.lmsys.org) **FastChat。** 基于 Vicuna: An Open Chatbot Impressing GPT-4
 1. [[⭐⭐] https://modelscope.cn](https://modelscope.cn) 魔塔社区（阿里达摩院）
