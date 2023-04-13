@@ -233,7 +233,8 @@
       "title": "chat"
     },
     "https://chat.binjie.site:7777": {
-      "star": 2,
+      "invalid": '20230413',
+      "star": 0,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
       "title": "仅用于开发学习交流"
     },
